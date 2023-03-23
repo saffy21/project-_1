@@ -107,6 +107,3 @@
  phpinfo();`
 
  `sudo rm /var/www/projectlamp/index.php`
-
-
-
